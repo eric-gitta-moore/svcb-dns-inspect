@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "https-dns-ech",
+  "name": "srvb-dns-inspect",
   "version": "1.0.0",
   "description": "",
   "scripts": {

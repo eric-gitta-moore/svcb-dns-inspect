@@ -412,7 +412,7 @@ export default function DNSVisualizer() {
         <div className="text-center space-y-2 mb-8">
           <h1 className="text-3xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400 inline-flex items-center gap-3">
             <Shield className="w-10 h-10 text-emerald-400" />
-            HTTPS Record & ECH Decoder
+            HTTPS/SVCB Record & ECH Decoder
           </h1>
           <p className="text-slate-400">
             可视化查询域名的 HTTPS 记录并解码 Encrypted Client Hello 字段
