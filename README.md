@@ -2,6 +2,9 @@
 
 一个用于可视化查询域名 HTTPS（SVCB/HTTPS type 65）记录并解码 ECH（Encrypted Client Hello）参数的前端应用。支持通过域名查询自动提取 `ech` 字段，也支持手动粘贴 Base64 ECH 进行解析。界面以 React + Vite + Tailwind CSS 构建，并使用 `lucide-react` 图标。
 
+![preview](https://github.com/user-attachments/assets/1c08d725-cf90-4a93-b4d4-69a598c3bb08)
+
+
 ## 功能特性
 - 通过 Google Public DNS JSON API 查询域名 `HTTPS` 记录。
 - 自动解析记录中的 `ech` 字段（Base64），展示各字段的含义与原始十六进制字节。
