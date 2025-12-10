@@ -4,6 +4,8 @@
 
 ![preview](https://github.com/user-attachments/assets/1c08d725-cf90-4a93-b4d4-69a598c3bb08)
 
+> Powered By models/gemini-3-pro-preview
+
 
 ## 功能特性
 - 通过 Google Public DNS JSON API 查询域名 `HTTPS` 记录。
