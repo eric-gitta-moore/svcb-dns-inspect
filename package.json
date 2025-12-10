@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "srvb-dns-inspect",
+  "name": "svcb-dns-inspect",
   "version": "1.0.0",
   "description": "",
   "scripts": {

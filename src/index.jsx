@@ -415,7 +415,7 @@ export default function DNSVisualizer() {
             HTTPS/SVCB Record & ECH Decoder
           </h1>
           <p className="text-slate-400">
-            可视化查询域名的 HTTPS 记录并解码 Encrypted Client Hello 字段
+            可视化查询域名的 HTTPS/SVCB 记录并解码 Encrypted Client Hello 字段
           </p>
         </div>
 
