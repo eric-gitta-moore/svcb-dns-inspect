@@ -6,6 +6,10 @@
 
 > Powered By models/gemini-3-pro-preview
 
+> 对于需要测试 SSL_ECH_OUTER_SNI 和 SSL_ECH_INNER_SNI
+> 
+> 可以打开 https://test.defo.ie/
+
 
 ## 功能特性
 - 通过 Google Public DNS JSON API 查询域名 `HTTPS` 记录。
