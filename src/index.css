@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 可选：应用全局背景与字体，配合现有类名更自然 */
+html, body, #root {
+  height: 100%;
+}
+
